@@ -1,6 +1,6 @@
 ---
-baseURL: https://bible.prototype.com.my
-title: Bible
+baseURL: https://bootcamp.prototype.com.my
+title: Bootcamp
 theme: hugo-geekdoc
 pygmentsUseClasses: true
 pygmentsCodeFences: true
@@ -21,7 +21,7 @@ markup:
 params:
   geekdocToC: 3
 
-  geekdocRepo: https://github.com/pipelinenetwork/Bible
+  geekdocRepo: https://github.com/pipelinenetwork/Bootcamp
   geekdocEditPath: content
 
   geekdocDateFormat: "2 Jan 2006"
