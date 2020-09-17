@@ -1,0 +1,22 @@
+---
+more:
+  - name: "Hiring"
+    ref: "https://www.jobstreet.com.my/en/companies/1000738-pipeline-network"
+    external: true
+    icon: "github"     
+  - name: "Project"
+    ref: "https://github.com/xoxys/hugo-geekdoc/releases"
+    external: true
+    icon: "github"    
+  - name: "Proof of Concept"
+    ref: "https://github.com/xoxys/hugo-geekdoc/releases"
+    external: true
+    icon: "github"  
+  - name: "Prototype"
+    ref: "https://github.com/xoxys/hugo-geekdoc/releases"
+    external: true
+    icon: "github"
+  - name: "View Source"
+    ref: "https://github.com/pipelinenetwork/Bible"
+    external: true
+    icon: "github"
